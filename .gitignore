@@ -1,0 +1,13 @@
+# https://github.com/github/gitignore/blob/main/community/embedded/esp-idf.gitignore
+
+# gitignore template for esp-idf, the official development framework for ESP32
+# https://github.com/espressif/esp-idf
+
+build/
+sdkconfig
+sdkconfig.old
+
+
+# ---
+
+/.pio/
